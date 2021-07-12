@@ -1,0 +1,130 @@
+@media only screen and (min-width: 1280px) {
+  #navbarSupportedContent {
+    display: none !important;
+  }
+
+  .container-fluid {
+    padding: 0 5% !important;
+  }
+
+  .navbar-brand {
+    display: none;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  .nav-container {
+    padding: 0 8%;
+    display: flex;
+    align-items: center;
+  }
+
+  .logo {
+    padding-right: 2rem;
+  }
+
+  .first-menu-links1 {
+    margin-right: 26rem;
+  }
+
+  .first-menu-links1 ul {
+    display: flex;
+  }
+
+  .first-menu-links1 ul li {
+    padding-right: 2rem;
+    color: #9e9aa8;
+    margin-top: 18px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 22px;
+  }
+
+  .second-menu-links2 ul {
+    display: flex;
+  }
+
+  .second-menu-links2 ul li {
+    padding-right: 3rem;
+    color: #9e9aa8;
+    margin-top: 18px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 22px;
+  }
+
+  .second-menu-links2 ul li button {
+    background: #9ae3e3;
+    border-radius: 28px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 22px;
+    color: #ffffff;
+    padding: 2px 12px;
+    border: none;
+  }}
+
+#navbarSupportedContent {
+    background: #3a3054 !important;
+    border-radius: 10px;
+    margin-top: 1rem;
+    padding: 1rem 0;
+    text-align: center;
+    position: fixed;
+    top: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 93%;
+    z-index: 9999999999999;
+  }
+  
+  .navbar-toggler {
+    border: none !important;
+    color: #9e9aa8 !important;
+  }
+  
+  .collapse .nav-menu-links a {
+    color: #fff !important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 1.5rem 0 !important;
+  }
+  
+  .btn1 button {
+    text-decoration: none;
+    background: #2bd0d0;
+    border-radius: 1.75rem;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    color: #ffffff;
+    padding: 10px 120px !important;
+  }
+  
+  hr {
+    color: #fff;
+    width: 80%;
+    margin: auto;
+  }
+  .collapse .login-link a {
+    color: #fff !important;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 1.5rem 0 !important;
+  }
+  
+  .container-fluid {
+    padding: 0 5% !important;
+  }
+  

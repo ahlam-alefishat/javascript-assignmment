@@ -1,0 +1,130 @@
+.advance-statics {
+    padding-top: 3rem;
+    background: #eff1f7;
+    width: 100%;
+  }
+  
+  .advance-statics h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 3rem;
+    text-align: center;
+    letter-spacing: -0.7px;
+    color: #34313d;
+  }
+  
+  .advance-statics p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    letter-spacing: 0.109091px;
+    color: #9e9aa8;
+    width: 100%;
+    padding: 0 20px 4rem 0;
+  }
+  
+  .statistics-card-container {
+    position: relative;
+    background: #eff1f7;
+    padding: 50px 0;
+    width: 100%;
+    overflow: hidden;
+  }
+  
+  .background-line {
+    position: absolute;
+    width: 8px;
+    height: 80%;
+    background: #2bd0d0;
+    left: 50%;
+    z-index: 0;
+  }
+  
+  .card {
+    background: #ffffff;
+    border-radius: 5px;
+    margin: 0 0.938rem 0 0.938rem;
+    position: relative;
+    z-index: 99;
+    padding: 10px 20px 30px 20px;
+    margin-bottom: 6rem;
+  }
+  
+  .card .img {
+    position: absolute;
+    top: -40px;
+    left: 40%;
+    background: #3a3054;
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .card h2 {
+    padding-top: 80px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    color: #34313d;
+    margin-bottom: 1rem;
+  }
+  
+  .card p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 26px;
+    text-align: center;
+    color: #9e9aa8;
+    width: 100%;
+  }
+  
+  .pre-footer {
+   
+    position: relative;
+    z-index: 99;
+    padding: 10px 20px 30px 20px;
+    background-size: cover;
+    background-color: #3b3054;
+  
+  }
+  
+  .pre-footer h1 {
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: -0.7px;
+    color: #ffffff;
+    margin: 2rem 0;
+  }
+  
+  .pre-footer-button {
+    margin-top: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem;
+  }
+  
+  .pre-footer-button a {
+    text-decoration: none;
+    background: #2bd0d0;
+    border-radius: 1.75rem;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    color: #ffffff;
+    padding: 10px 30px;
+  }
+  

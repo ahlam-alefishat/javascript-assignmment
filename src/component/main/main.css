@@ -1,0 +1,40 @@
+
+  .main-text h1 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.6rem;
+    line-height: 3rem;
+    text-align: center;
+    letter-spacing: 0.066rem;
+    color: #34313d;
+  }
+  
+  .main-text p {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.125rem;
+    line-height: 1.875rem;
+    text-align: center;
+    letter-spacing: 0.008rem;
+    color: #9e9aa8;
+  }
+  
+  .main-button {
+    margin-top: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .main-text a {
+    text-decoration: none;
+    background: #2bd0d0;
+    border-radius: 1.75rem;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.25rem;
+    line-height: 1.875rem;
+    color: #ffffff;
+    padding: 10px 30px;
+  }
+  
